@@ -19,4 +19,4 @@ setup(
     long_description=readme,
     packages=["ember"],
     package_data=package_data,
-    author_email="proth@endgame.com")
+    author_email="kartikbinzade@gmail.com")
